@@ -5,15 +5,16 @@ contents:
   - title: WBS Training AG
     role: Web Development
     description:
-      - UI Prototyping
-      - Web Frontend development
+      - UI Prototyping with Figma
+      - Web Frontend development with React, Node.js and Bootstrap
+      - API implementation
     date: Nov. 2023 - Ongoing
   - title: German Aerospace Center
     role: IT-Development
     description:
       - Prototyping a civic participation platform in Figma
       - Developing a Serious Game for stakeholders in Unreal Engine 4
-    date: Nov. 2012 - Ongoing
+    date: Jun. 2022 - Dec. 2022
   - title: ART+COM Studios
     role: 'IT-Development'
     description: 
