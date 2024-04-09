@@ -1,0 +1,21 @@
+title: Can
+profile_img: assets/pic/profi.webp
+icon_img: assets/img/icon.webp
+
+name: "Can Çölükoğlu"
+job: "Software Developer"
+
+address: Berlin, Germany
+email: cancoel@web.de
+linkedin_username: cancoel
+github_username: cancoel
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

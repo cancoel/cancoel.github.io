@@ -1,0 +1,30 @@
+subject: Experiences
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: WBS Training AG
+    role: Web Development
+    description:
+      - UI Prototyping
+      - Web Frontend development
+    date: Nov. 2023 - Ongoing
+  - title: German Aerospace Center
+    role: IT-Development
+    description:
+      - Prototyping a civic participation platform in Figma
+      - Developing a Serious Game for stakeholders in Unreal Engine 4
+    date: Nov. 2012 - Ongoing
+  - title: ART+COM Studios
+    role: 'IT-Development'
+    description: 
+      - Implementation of design projects for external communication using HTML and CSS
+      - Development of user interfaces in Unity3D
+      - Integration of data from JSON-based interfaces
+      - "Contribution to research projects: Visualizations using various software platforms and web frameworks (Ruby/Rails, Python)"
+    date: Aug. 2021 - Apr. 2022
+  - title: AVM GmbH
+    role: Customer Support
+    description: 
+      - Customer support via email, hotline, and social media in the areas of net works, telecommunications, and IT
+      - Participation and booth management at CeBit, IFA, and Maker Faire
+    date: Nov. 2012 - Apr. 2021

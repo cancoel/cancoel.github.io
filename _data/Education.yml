@@ -1,0 +1,8 @@
+subject: Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Berliner Hochschule für Technik (BHT), B.Sc. in Media Informatics
+    description:
+      - Image processing with compute shaders (WebGPU)
+    date: Oct. 2017 - Jan. 2023

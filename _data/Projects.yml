@@ -1,0 +1,17 @@
+subject: Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "mailbuddy ([https://github.com/cancoel/mailbuddy](https://github.com/cancoel/mailbuddy))"
+    description: 
+      - Send mails to multiple addresses simultanously
+      - Mail addresses come from an Excel file
+      - Made with Python
+  - title: "Gestalt ([https://github.com/cancoel/GESTALT](https://github.com/cancoel/GESTALT))"
+    description: 
+      - Bachelor Thesis project, grade 'good'
+      - Imgae processing with compute shaders (WebGPU) with TypeScript
+  - title: "Arcadia ([https://github.com/cancoel/Arcadia-Web-Engineering-2-Project-](https://github.com/cancoel/Arcadia-Web-Engineering-2-Project-))" 
+    description: 
+      - University project
+      - Full-Stack Web Development with React, Redux, Express.js and MongoDB
